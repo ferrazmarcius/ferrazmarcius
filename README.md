@@ -2,10 +2,6 @@
 
 <h3 align="center"> 👋, eu sou o Marcius Ferraz </h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/15/f0/72/15f0729d004bbf7ecea976b38a1fd8cb.gif" alt="coding-gif" width="400"/>
-</p>
-
 ---
 
 ## ✨ Sobre Mim
@@ -19,7 +15,7 @@
 
 ---
 
-## 🔗 Conecte-se comigo
+## 🔗 Conecte-se Comigo
 <p align="left">
 <a href="https://www.linkedin.com/in/marcius-ferraz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mferraz.xmi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -43,17 +39,18 @@
 
 ---
 
-## 🎓 Formação e Cursos
+## 🎓 Formação e Cursos 
 | Cursos | Instituição | Certificados |
 |------------------|-------------|----------------------|
 | **Análise e Desenvolvimento de Sistemas** | Faculdade Anhanguera | Cursando |
-| **Santander 2025 - Back-End com Python** | DIO | PDF |
-| **Prompting Responsável** | Santander Open Academy | <a href=https://github.com/ferrazmarcius/ferrazmarcius/blob/f8a50a2ff33c1a6faa830442425f4653e1f63c15/assets/Prompting%20Respons%C3%A1vel%20Maximizar%20a%20IA%20no%20Neg%C3%B3cio.pdf a> PDF |
+| **Santander 2025 - Back-End com Python** | Digital Innovation One | PDF |
+| **Prompting Responsável** | Microsoft Founderz | <a href=https://github.com/ferrazmarcius/ferrazmarcius/blob/f8a50a2ff33c1a6faa830442425f4653e1f63c15/assets/Prompting%20Respons%C3%A1vel%20Maximizar%20a%20IA%20no%20Neg%C3%B3cio.pdf a> PDF |
 
 ---
+## 📈 Acompanhe Meu Progresso nas Plataformas ⤵️
 
-## ❤️ Hobbies
-- 🎮 Gamer apaixonado, explorando mundos de fantasia em RPGs como **Elden Ring**, **Skyrim** e **The Witcher 3**.
+* Meu perfil na [DIO](https://www.dio.me/users/mferraz_xmi)
+* Meu perfil na [Udemy](https://www.udemy.com/user/marcius-silva-ferraz/)
 
 ---
 
@@ -68,3 +65,11 @@
     </table>
   </a>
 </p>
+
+---
+
+## ❤️ Mais Sobre Mim
+- 🎮 Gamer apaixonado, explorando mundos de fantasia em RPGs como **Elden Ring**, **Skyrim** e **The Witcher 3**
+- 👶 Pai da Criança mais linda desse mundo, que se chama Ravi
+- 🥊 Há 12 anos pratico Muay Thai e Jiu Jitsu
+---
