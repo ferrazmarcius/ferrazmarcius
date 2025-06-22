@@ -39,7 +39,7 @@
 
 ---
 
-## 🎓 Formação e Cursos
+## 🎓 Formação e Cursos (Em construcao)
 | Curso / Formação | Instituição | Status / Certificado |
 |------------------|-------------|----------------------|
 | **Análise e Desenvolvimento de Sistemas** | Faculdade Anhanguera | Cursando 1º Período |
@@ -48,7 +48,7 @@
 ---
 
 ## ❤️ Hobbies
-- 🎮 Gamer apaixonado, explorando mundos de fantasia em RPGs como **Elden Ring**, **Skyrim** e **Devil May Cry**.
+- 🎮 Gamer apaixonado, explorando mundos de fantasia em RPGs como **Elden Ring**, **Skyrim** e **The Witcher 3**.
 
 ---
 
