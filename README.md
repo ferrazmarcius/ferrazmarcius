@@ -1,13 +1,17 @@
-<h1 align="center">Olá 👋, eu sou o Marcius Ferraz</h1>
+<h1 align="center">Sejam bem-vindos ao meu GitHub!</h1>
+
+<h3 align="center"> 👋, eu sou o Marcius Ferraz </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="coding-gif" width="400"/>
+  <img src="https://i.pinimg.com/originals/15/f0/72/15f0729d004bbf7ecea976b38a1fd8cb.gif" alt="coding-gif" width="400"/>
 </p>
 
 ---
 
 ## ✨ Sobre Mim
-- 🔭 Atualmente estou trabalhando em projetos pessoais com **Python** e como freelancer **Front-end**.
+
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas
+- 🔭 Atualmente estou trabalhando em projetos pessoais com **Python** e como Freelancer **Front-end**.
 - 🌱 Estou focado no desenvolvimento **Full-Stack**, aprofundando meus conhecimentos em:
   - **Backend:** Python e Banco de Dados
   - **Frontend:** React.js, Next.js, TypeScript, HTML5 e CSS3
@@ -39,11 +43,12 @@
 
 ---
 
-## 🎓 Formação e Cursos (Em construcao)
-| Curso / Formação | Instituição | Status / Certificado |
+## 🎓 Formação e Cursos
+| Cursos | Instituição | Certificados |
 |------------------|-------------|----------------------|
-| **Análise e Desenvolvimento de Sistemas** | Faculdade Anhanguera | Cursando 1º Período |
+| **Análise e Desenvolvimento de Sistemas** | Faculdade Anhanguera | Cursando |
 | **Santander 2025 - Back-End com Python** | DIO | PDF |
+| **Prompting Responsável** | Santander Open Academy | <a href=https://github.com/ferrazmarcius/ferrazmarcius/blob/f8a50a2ff33c1a6faa830442425f4653e1f63c15/assets/Prompting%20Respons%C3%A1vel%20Maximizar%20a%20IA%20no%20Neg%C3%B3cio.pdf a> PDF |
 
 ---
 
