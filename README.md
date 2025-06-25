@@ -49,5 +49,5 @@ Estou sempre aprendendo e me desenvolvendo. Acompanhe meu progresso:
 ---
 
 <div align="center">
-  <p>Feito com ❤️ por Marcius Ferraz</p>
+  <p>Feito por Marcius Ferraz</p>
 </div>
