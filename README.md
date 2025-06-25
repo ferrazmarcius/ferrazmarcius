@@ -66,7 +66,7 @@
 ---
 
 ## ❤️ Mais Sobre Mim
-- 🎮 Gamer apaixonado, explorando mundos de fantasia em RPGs como **Elden Ring**, **Skyrim** e **The Witcher 3**
-- 👶 Pai da Criança mais linda desse mundo, que se chama Ravi
-- 🥊 Há 12 anos pratico Muay Thai e Jiu Jitsu
+- 🎮 Gamer apaixonado
+- 👶 Pai do Ravi
+- 🥊 Há 12 anos pratico Muay Thai, Jiu Jitsu e corro as vezes (3, 5, 10km)
 ---
