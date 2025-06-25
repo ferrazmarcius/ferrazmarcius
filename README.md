@@ -1,72 +1,53 @@
-<h3 align="center"> 👋, eu sou Marcius Ferraz, seja bem vindo ao meu Git! </h3>
+<div id="header" align="center">
+  <h1 align="center">Olá 👋, sou o Marcius Ferraz</h1>
+  <h3 align="center">Um desenvolvedor apaixonado por construir soluções digitais e em constante evolução do Front-end para o Back-end.</h3>
+</div>
 
 ---
 
-## ✨ Sobre Mim
+### 👨‍💻 Sobre Mim
 
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas
-- 🔭 Atualmente estou trabalhando em projetos pessoais com **Python**, **BD** e como Freelancer **Front-end**.
-- 🌱 Estou focado no desenvolvimento **Full-Stack**, aprofundando meus conhecimentos em:
-  - **Backend:** Python e Banco de Dados
-  - **Frontend:** React, Next, TS, JS, HTML5 e CSS3
+Sou um Desenvolvedor Front-end com 2 anos de experiência como freelancer, especializado na criação de sites e blogs de alta performance otimizados para monetização com Google AdSense. Minha jornada me deu uma base sólida em SEO técnico, experiência do usuário e na entrega de produtos digitais que geram resultados.
 
----
+Atualmente, estou aprofundando meus conhecimentos em desenvolvimento **Back-end com Python** e **Banco de Dados**, com o objetivo de me tornar um desenvolvedor Full-Stack. Sou fascinado por construir a lógica, a arquitetura e a infraestrutura que dão vida às aplicações.
 
-## 🔗 Conecte-se Comigo
-<p align="left">
-<a href="https://www.linkedin.com/in/marcius-ferraz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:mferraz.xmi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://www.instagram.com/marcius_ferraz/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
+- 🔭 Atualmente estou trabalhando no projeto de um **Sistema de Agência de Viagens** (Back-end) e **Sistema Bancário com Python** (Back-end).
+- 🌱 Aprendendo sobre **Python, SQL, Docker, e arquitetura de microsserviços**.
+- 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)**
 
 ---
 
-## 💻 Linguagens e Ferramentas
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/></a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-</p>
+### 🚀 Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+
+| Front-End | Back-End | Banco de Dados | Ferramentas & DevOps |
+| :---: | :---: | :---: | :---: |
+| ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white) | ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | | | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| | | | ![AdsPower](https://img.shields.io/badge/-AdsPower-2C71F0?style=for-the-badge) |
 
 ---
 
-## 🎓 Formação e Cursos 
-| Cursos | Instituição | Certificados |
-|------------------|-------------|----------------------|
-| **Análise e Desenvolvimento de Sistemas** | Faculdade Anhanguera | Cursando |
-| **Santander 2025 - Back-End com Python** | Digital Innovation One | PDF |
-| **Prompting Responsável** | Microsoft Founderz | <a href=https://github.com/ferrazmarcius/ferrazmarcius/blob/f8a50a2ff33c1a6faa830442425f4653e1f63c15/assets/Prompting%20Respons%C3%A1vel%20Maximizar%20a%20IA%20no%20Neg%C3%B3cio.pdf a> PDF |
+### 📊 Minhas Estatísticas no GitHub
 
----
-## 📈 Acompanhe Meu Progresso nas Plataformas ⤵️
-
-* Meu perfil na [DIO](https://www.dio.me/users/mferraz_xmi)
-* Meu perfil na [Udemy](https://www.udemy.com/user/marcius-silva-ferraz/)
-
----
-
-## 📊 Minhas Estatísticas do GitHub
 <p align="center">
-  <a href="https://github.com/ferrazmarcius">
-    <table align="center">
-      <tr>
-        <td><img src="https://github-readme-stats.vercel.app/api?username=ferrazmarcius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180em"/></td>
-        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrazmarcius&layout=compact&langs_count=7&theme=dracula" height="180em"/></td>
-      </tr>
-    </table>
-  </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ferrazmarcius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrazmarcius&layout=compact&langs_count=7&theme=dracula"/>
 </p>
 
 ---
 
-## ❤️ Mais Sobre Mim
-- 🎮 Gamer apaixonado
-- 👶 Pai do Ravi
-- 🥊 Há 12 anos pratico Muay Thai, Jiu Jitsu e corro as vezes (3, 5, 10km)
+### 🏆 Meus Perfis de Aprendizagem
+
+Estou sempre aprendendo e me desenvolvendo. Acompanhe meu progresso:
+
+- **[DIO (Digital Innovation One)](https://www.dio.me/users/mferraz_xmi)**
+- **[Udemy](https://www.udemy.com/user/marcius-silva-ferraz/)**
+
 ---
+
+<div align="center">
+  <p>Feito com ❤️ por Marcius Ferraz</p>
+</div>
