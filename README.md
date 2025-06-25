@@ -1,17 +1,14 @@
-<h1 align="center">Sejam bem-vindos ao meu GitHub!</h1>
-
-<h3 align="center"> 👋, eu sou o Marcius Ferraz </h3>
+<h3 align="center"> 👋, eu sou Marcius Ferraz, seja bem vindo ao meu Git! </h3>
 
 ---
 
 ## ✨ Sobre Mim
 
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas
-- 🔭 Atualmente estou trabalhando em projetos pessoais com **Python** e como Freelancer **Front-end**.
+- 🔭 Atualmente estou trabalhando em projetos pessoais com **Python**, **BD** e como Freelancer **Front-end**.
 - 🌱 Estou focado no desenvolvimento **Full-Stack**, aprofundando meus conhecimentos em:
   - **Backend:** Python e Banco de Dados
-  - **Frontend:** React.js, Next.js, TypeScript, HTML5 e CSS3
-  - **Ferramentas e Design:** Git e Figma
+  - **Frontend:** React, Next, TS, JS, HTML5 e CSS3
 
 ---
 
