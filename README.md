@@ -1,15 +1,12 @@
 <div id="header" align="center">
-  <h3 align="center">Olá 👋, sou o Marcius Ferraz</h3>
+  <h3 align="center">Olá 👋</h3>
 </div>
 
 ---
 - 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)**
 
 ---
-
-### 🚀 Tecnologias e Ferramentas
-
-Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+Aqui estão algumas das tecnologias com as quais tenho trabalhado
 
 | Front-End | Back-End | Banco de Dados | Ferramentas & DevOps |
 | :---: | :---: | :---: | :---: |
@@ -19,7 +16,8 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 | | | | ![AdsPower](https://img.shields.io/badge/-AdsPower-2C71F0?style=for-the-badge) |
 
 ---
-## 🎓 Formação e Certificados
+
+Formações e Certificados
 
 | Curso | Instituição | Certificados |
 | :--- | :---: | :---: |
@@ -30,7 +28,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 | Aceleração Microsoft AI Agents | Digital Innovation One | *[Certificado](#)* |
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+Minhas Estatísticas no GitHub
 
 <p align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ferrazmarcius&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -39,9 +37,7 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 
 ---
 
-### 🏆 Meus Perfis de Aprendizagem
-
-Estou sempre aprendendo e me desenvolvendo. Acompanhe meu progresso:
+Estou sempre aprendendo e me desenvolvendo. Acompanhe meu progresso
 
 - **[DIO (Digital Innovation One)](https://www.dio.me/users/mferraz_xmi)**
 - **[Udemy](https://www.udemy.com/user/marcius-silva-ferraz/)**
