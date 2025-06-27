@@ -1,18 +1,8 @@
 <div id="header" align="center">
-  <h1 align="center">Olá 👋, sou o Marcius Ferraz</h1>
-  <h3 align="center">Um Dev apaixonado por construir soluções digitais e em constante evolução do Front-end para o Back-end.</h3>
+  <h3 align="center">Olá 👋, sou o Marcius Ferraz</h3>
 </div>
 
 ---
-
-### 👨‍💻 Sobre Mim
-
-Sou um Desenvolvedor Front-end com 2 anos de experiência como freelancer, especializado na criação de sites e blogs de alta performance otimizados para monetização com Google AdSense. Minha jornada me deu uma base sólida em SEO técnico, experiência do usuário e na entrega de produtos digitais que geram resultados.
-
-Atualmente, estou aprofundando meus conhecimentos em desenvolvimento **Back-end com Python** e **Banco de Dados**, com o objetivo de me tornar um desenvolvedor Full-Stack. Sou fascinado por construir a lógica, a arquitetura e a infraestrutura que dão vida às aplicações.
-
-- 🔭 Atualmente estou trabalhando no projetos Front-end.
-- 🌱 Aprendendo sobre **Python, SQL, Docker, e arquitetura de microsserviços**.
 - 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)**
 
 ---
