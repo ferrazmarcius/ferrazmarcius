@@ -1,9 +1,4 @@
-<div id="header" align="center">
-  <h3 align="center">Olá 👋</h3>
-</div>
-
----
-- 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)**
+- Olá, me encontre aqui **[Meu LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)**
 
 ---
 Aqui estão algumas das tecnologias com as quais tenho trabalhado
