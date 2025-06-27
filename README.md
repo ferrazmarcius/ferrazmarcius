@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1 align="center">Olá 👋, sou o Marcius Ferraz</h1>
-  <h3 align="center">Um desenvolvedor apaixonado por construir soluções digitais e em constante evolução do Front-end para o Back-end.</h3>
+  <h3 align="center">Um Dev apaixonado por construir soluções digitais e em constante evolução do Front-end para o Back-end.</h3>
 </div>
 
 ---
@@ -11,7 +11,7 @@ Sou um Desenvolvedor Front-end com 2 anos de experiência como freelancer, espec
 
 Atualmente, estou aprofundando meus conhecimentos em desenvolvimento **Back-end com Python** e **Banco de Dados**, com o objetivo de me tornar um desenvolvedor Full-Stack. Sou fascinado por construir a lógica, a arquitetura e a infraestrutura que dão vida às aplicações.
 
-- 🔭 Atualmente estou trabalhando no projeto de um **Sistema de Agência de Viagens** (Back-end) e **Sistema Bancário com Python** (Back-end).
+- 🔭 Atualmente estou trabalhando no projetos Front-end.
 - 🌱 Aprendendo sobre **Python, SQL, Docker, e arquitetura de microsserviços**.
 - 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)**
 
@@ -28,6 +28,16 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | | | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 | | | | ![AdsPower](https://img.shields.io/badge/-AdsPower-2C71F0?style=for-the-badge) |
 
+---
+## 🎓 Formação e Certificados
+
+| Curso | Instituição | Certificados |
+| :--- | :---: | :---: |
+| Análise e Desenvolvimento de Sistemas | Faculdade Anhanguera | Cursando |
+| Microsoft 50 Anos - GitHub Copilot | Digital Innovation One | *[Certificado](#)* |
+| Bootcamp Santander 2025 Back-end com Python | Digital Innovation One | *[Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/2ba3c2a79b2bb5428a6280a27b51d63383878e5f/assets/Bootcamp%20Santander%202025%20Back-end%20com%20Python%20FXRXC86B.pdf)* |
+| Prompting Responsável: Maximizar a IA no seu Negócio | Santander Open Academy | *[Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/2ba3c2a79b2bb5428a6280a27b51d63383878e5f/assets/Prompting%20Respons%C3%A1vel%20Maximizar%20a%20IA%20no%20Neg%C3%B3cio.pdf)* |
+| Aceleração Microsoft AI Agents | Digital Innovation One | *[Certificado](#)* |
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
