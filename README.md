@@ -17,10 +17,10 @@ Formações e Certificados
 | Curso | Instituição | Certificados |
 | :--- | :---: | :---: |
 | Análise e Desenvolvimento de Sistemas | Faculdade Anhanguera | Cursando |
+| Prompting Responsável: Maximizar a IA no seu Negócio | Santander Open Academy | *[Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/2ba3c2a79b2bb5428a6280a27b51d63383878e5f/assets/Prompting%20Respons%C3%A1vel%20Maximizar%20a%20IA%20no%20Neg%C3%B3cio.pdf)* |
 | Microsoft 50 Anos - GitHub Copilot | Digital Innovation One | *[Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/2a37bf0eaf22c87598091b93e567417d75fe88d7/assets/Microsoft%2050%20Anos%20-%20GitHub%20Copilot%20SLMCAVRL.pdf)* |
 | Bootcamp Santander 2025 Back-end com Python | Digital Innovation One | *[Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/2ba3c2a79b2bb5428a6280a27b51d63383878e5f/assets/Bootcamp%20Santander%202025%20Back-end%20com%20Python%20FXRXC86B.pdf)* |
-| Prompting Responsável: Maximizar a IA no seu Negócio | Santander Open Academy | *[Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/2ba3c2a79b2bb5428a6280a27b51d63383878e5f/assets/Prompting%20Respons%C3%A1vel%20Maximizar%20a%20IA%20no%20Neg%C3%B3cio.pdf)* |
-| Aceleração Microsoft AI Agents | Digital Innovation One | *[Certificado](#)* |
+| Aceleração Microsoft AI Agents | Digital Innovation One | *[Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/efb671ebe72f9640e69f7fadc68aacc4ec94fcc2/assets/Acelera%C3%A7%C3%A3o%20Microsoft%20AI%20Agents%20VSMTLRF3.pdf)* |
 ---
 
 Minhas Estatísticas no GitHub
