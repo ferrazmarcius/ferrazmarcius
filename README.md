@@ -1,4 +1,5 @@
-- Olá, me encontre aqui **[Meu LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)**
+- Olá, me encontre aqui **[Meu LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)** Fui temporariamente restrito :(
+- Fale comigo via [email](mailto:mferraz.xmi@gmail.com)
 
 ---
 Aqui estão algumas das tecnologias com as quais tenho trabalhado
@@ -18,9 +19,10 @@ Formações e Certificados
 | :--- | :---: | :---: |
 | Análise e Desenvolvimento de Sistemas | Faculdade Anhanguera | Cursando |
 | Prompt Engineering para Produtividade Empresarial | Microsoft & Founderz | *[Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/2ba3c2a79b2bb5428a6280a27b51d63383878e5f/assets/Prompting%20Respons%C3%A1vel%20Maximizar%20a%20IA%20no%20Neg%C3%B3cio.pdf)* |
-| Microsoft AI Agents: Automação e Otimização | Digital Innovation One | *[Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/efb671ebe72f9640e69f7fadc68aacc4ec94fcc2/assets/Acelera%C3%A7%C3%A3o%20Microsoft%20AI%20Agents%20VSMTLRF3.pdf)* |
-| Bootcamp Microsoft 50 Anos - GitHub Copilot | Digital Innovation One | *[Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/2a37bf0eaf22c87598091b93e567417d75fe88d7/assets/Microsoft%2050%20Anos%20-%20GitHub%20Copilot%20SLMCAVRL.pdf)* |
-| Bootcamp Santander 2025 Back-end com Python | Digital Innovation One | *[Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/2ba3c2a79b2bb5428a6280a27b51d63383878e5f/assets/Bootcamp%20Santander%202025%20Back-end%20com%20Python%20FXRXC86B.pdf)* |
+| Microsoft AI Agents: Automação e Otimização | Digital Innovation One | *[Certificado](https://hermes.dio.me/certificates/VSMTLRF3.pdf)* |
+| Bootcamp Microsoft 50 Anos - GitHub Copilot | Digital Innovation One | *[Certificado](https://hermes.dio.me/certificates/SLMCAVRL.pdf)* |
+| Bootcamp Python Essentials | Digital Innovation One | *[Certificado](https://hermes.dio.me/certificates/HQOLGOA3.pdf)* |
+| Bootcamp Santander 2025 Back-end com Python | Digital Innovation One | *[Certificado](https://hermes.dio.me/certificates/FXRXC86B.pdf)* |
 ---
 
 Minhas Estatísticas no GitHub
