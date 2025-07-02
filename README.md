@@ -1,5 +1,4 @@
-- Olá, me encontre aqui **[Meu LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)** Fui temporariamente restrito :(
-- Fale comigo via [email](mailto:mferraz.xmi@gmail.com)
+- Olá, me encontre aqui **[Meu LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)**
 
 ---
 Aqui estão algumas das tecnologias com as quais tenho trabalhado
