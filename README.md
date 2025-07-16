@@ -1,4 +1,5 @@
-- Olá, me encontre aqui **[Meu LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)**
+- Olá,
+ Meu nome é Marcius, entre em contato comigo por aqui: **[Meu LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)**
 
 ---
 Aqui estão algumas das tecnologias com as quais tenho trabalhado
@@ -33,14 +34,3 @@ Minhas Estatísticas no GitHub
 </p>
 
 ---
-
-Estou sempre aprendendo e me desenvolvendo. Acompanhe meu progresso
-
-- **[DIO (Digital Innovation One)](https://www.dio.me/users/mferraz_xmi)**
-- **[Udemy](https://www.udemy.com/user/marcius-silva-ferraz/)**
-
----
-
-<div align="center">
-  <p>Feito por Marcius Ferraz</p>
-</div>
