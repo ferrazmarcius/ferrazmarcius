@@ -1,5 +1,6 @@
 - Olá,
- Meu nome é Marcius, entre em contato comigo por aqui: **[Meu LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)**
+Meu nome é Marcius, e este é o meu Lab!
+Caso queira enviar uma mensagem, entre em contato comigo por aqui: **[Meu LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)**
 
 ---
 Aqui estão algumas das tecnologias com as quais tenho trabalhado
