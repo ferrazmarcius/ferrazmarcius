@@ -48,11 +48,12 @@ Com background em engenharia (com passagens por Engenharia Civil, de Produção 
 | **Análise e Desenvolvimento de Sistemas** | Faculdade Anhanguera | Cursando |
 | **FAST - Engenharia de Plataforma** | CESAR School | *[Ver Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/d8bb7dc0f7a5421f043bc74bfda1383a83fe24c7/assets/CesarSchool.pdf)* |
 | **Prompt Engineering para Produtividade** | Microsoft & Founderz | *[Ver Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/2ba3c2a79b2bb5428a6280a27b51d63383878e5f/assets/Prompting%20Respons%C3%A1vel%20Maximizar%20a%20IA%20no%20Neg%C3%B3cio.pdf)* |
-| **Microsoft AI Agents: Automação e Otimização** | Digital Innovation One | *[Ver Certificado](https://hermes.dio.me/certificates/VSMTLRF3.pdf)* |
-| **Bootcamp Microsoft 50 Anos - GitHub Copilot** | Digital Innovation One | *[Ver Certificado](https://hermes.dio.me/certificates/SLMCAVRL.pdf)* |
-| **Bootcamp Savegnago - Lógica de Programação** | Digital Innovation One | *[Ver Certificado](https://hermes.dio.me/certificates/YO3XCYYP.pdf)* |
-| **Bootcamp Formação Python Essentials** | Digital Innovation One | *[Ver Certificado](https://hermes.dio.me/certificates/HQOLGOA3.pdf)* |
-| **Bootcamp Santander 2025 Back-end com Python** | Digital Innovation One | *[Ver Certificado](https://hermes.dio.me/certificates/FXRXC86B.pdf)* |
+| **Microsoft AI Agents: Automação e Otimização** | DIO & Microsoft | *[Ver Certificado](https://hermes.dio.me/certificates/VSMTLRF3.pdf)* |
+| **Bootcamp Microsoft 50 Anos - GitHub Copilot** | DIO & Microsoft | *[Ver Certificado](https://hermes.dio.me/certificates/SLMCAVRL.pdf)* |
+| **Bootcamp Savegnago - Lógica de Programação** | DIO & Grupo Savegnago | *[Ver Certificado](https://hermes.dio.me/certificates/YO3XCYYP.pdf)* |
+| **Bootcamp Formação Python Essentials** | DIO | *[Ver Certificado](https://hermes.dio.me/certificates/HQOLGOA3.pdf)* |
+| **Bootcamp Santander 2025 Back-end com Python** | DIO & Santander | *[Ver Certificado](https://hermes.dio.me/certificates/FXRXC86B.pdf)* |
+```<ElicitationsGroup></ElicitationsGroup>
 
 ---
 
