@@ -41,9 +41,12 @@ Com background em engenharia (com passagens por Engenharia Civil, de Produção 
 
 ### 🎓 Formações e Certificados
 
+### 🎓 Formações e Certificados
+
 | Curso | Instituição | Status / Certificado |
 | :--- | :---: | :---: |
 | **Análise e Desenvolvimento de Sistemas** | Faculdade Anhanguera | Cursando |
+| **FAST - Engenharia de Plataforma** | CESAR School | *[Ver Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/d8bb7dc0f7a5421f043bc74bfda1383a83fe24c7/assets/CesarSchool.pdf)* |
 | **Prompt Engineering para Produtividade** | Microsoft & Founderz | *[Ver Certificado](https://github.com/ferrazmarcius/ferrazmarcius/blob/2ba3c2a79b2bb5428a6280a27b51d63383878e5f/assets/Prompting%20Respons%C3%A1vel%20Maximizar%20a%20IA%20no%20Neg%C3%B3cio.pdf)* |
 | **Microsoft AI Agents: Automação e Otimização** | Digital Innovation One | *[Ver Certificado](https://hermes.dio.me/certificates/VSMTLRF3.pdf)* |
 | **Bootcamp Microsoft 50 Anos - GitHub Copilot** | Digital Innovation One | *[Ver Certificado](https://hermes.dio.me/certificates/SLMCAVRL.pdf)* |
