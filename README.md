@@ -41,8 +41,6 @@ Com background em engenharia (com passagens por Engenharia Civil, de Produção 
 
 ### 🎓 Formações e Certificados
 
-### 🎓 Formações e Certificados
-
 | Curso | Instituição | Status / Certificado |
 | :--- | :---: | :---: |
 | **Análise e Desenvolvimento de Sistemas** | Faculdade Anhanguera | Cursando |
