@@ -51,7 +51,6 @@ Com background em engenharia (com passagens por Engenharia Civil, de Produção 
 | **Bootcamp Savegnago - Lógica de Programação** | DIO & Grupo Savegnago | *[Ver Certificado](https://hermes.dio.me/certificates/YO3XCYYP.pdf)* |
 | **Bootcamp Formação Python Essentials** | DIO | *[Ver Certificado](https://hermes.dio.me/certificates/HQOLGOA3.pdf)* |
 | **Bootcamp Santander 2025 Back-end com Python** | DIO & Santander | *[Ver Certificado](https://hermes.dio.me/certificates/FXRXC86B.pdf)* |
-```<ElicitationsGroup></ElicitationsGroup>
 
 ---
 
