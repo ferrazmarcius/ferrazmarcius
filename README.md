@@ -1,14 +1,36 @@
 # Olá! Eu sou o Marcius Ferraz
 
-**Desenvolvedor de Sistemas residente no Recife, construindo soluções escaláveis e eficientes.**
+**Estudante de Análise e Desenvolvimento de Sistemas, em Recife, aprendendo a programar com foco em Python, bancos de dados e nuvem.**
 
-Com background em engenharia (com passagens por Engenharia Civil, de Produção e de Materiais), trago uma forte base analítica para o desenvolvimento de software. Atualmente graduando em Análise e Desenvolvimento de Sistemas, tenho foco em construir APIs robustas e interfaces dinâmicas, unindo o ecossistema Python e PHP no back-end com ferramentas modernas de front-end como React e Next.js.
+Ainda não trabalho na área e estou construindo minha base. Quero ser transparente sobre como aprendo: meus projetos até aqui foram feitos em pair-programming com IA. Usei esse formato para entender o que estava sendo construído, não só para ter o código pronto. Agora estou na fase seguinte: treinar a escrita de código do zero, sem a IA como autora.
 
 📫 **Entre em contato:** **[Meu LinkedIn](https://www.linkedin.com/in/marcius-ferraz/)**
 
 ---
 
+### 🎯 **Foco atual**
+
+Python: lógica, estruturas de dados e escrever programas completos por conta própria;
+
+SQL e bancos de dados: modelagem, consultas e integração com Python;
+
+Nuvem (AWS): estudando pelo AWS Academy, começando por Cloud Foundations;
+
+Prática sem IA: reescrever meus próprios projetos do zero, usando a IA apenas para revisar e tirar dúvidas.
+
+---
+
 ### 💻 Tecnologias e Ferramentas
+
+Estudando e praticando com mais profundidade
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![mySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### **Contato inicial (com apoio de IA)**
 
 **Front-End**  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,7 +57,8 @@ Com background em engenharia (com passagens por Engenharia Civil, de Produção 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cursor](https://img.shields.io/badge/-Cursor_IDE-000000?style=for-the-badge&logo=codeigniter&logoColor=white)
-![AdsPower](https://img.shields.io/badge/-AdsPower-2C71F0?style=for-the-badge)
+
+Ferramentas: VS Code, Cursor
 
 ---
 
@@ -54,9 +77,8 @@ Com background em engenharia (com passagens por Engenharia Civil, de Produção 
 
 ---
 
-### 📊 Minhas Estatísticas
+### 🧪 Projetos do repositório
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ferrazmarcius&show_icons=true&theme=dracula&include_all_commits=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ferrazmarcius&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+Todos os projetos até agora foram feitos em pair-programming com IA. Meu plano é reescrever os principais do zero, e vou registrar essa evolução aqui.
+
+---
